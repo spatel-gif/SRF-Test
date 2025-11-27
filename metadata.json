@@ -1,0 +1,8 @@
+{
+  "name": "Student Relief Fund Portal",
+  "description": "A secure portal for students to manage their relief fund applications, submit documents, and track status.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
